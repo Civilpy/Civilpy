@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Civilpy
 - 👀 I’m interested in , idk in a lot of things to be honest 
-- 🌱 I’m currently learning python , Htlm, Css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
